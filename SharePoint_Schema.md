@@ -29,7 +29,7 @@ This list is used by Power Automate flows to:
 
 ## 🖼️ Screenshot of SharePoint List
 
-
+Credit_Card_Sharepointlist.png
 
 ---
 
